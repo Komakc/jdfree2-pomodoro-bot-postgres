@@ -35,7 +35,7 @@ public class PomodoroBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "";
+        return "5456456512:AAENGudkXzBHpCp55c_FKY1mrVc2p6cTEqM";
     }
 
     @Override
